@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "name": "The Glottography Consortium"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ],
+    "title": "Glottography dataset derived from Bowern 2021 \"Files for Australian Language Locations\"",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Bowern, C. (2021). Files for Australian Language Locations [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4898185</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
