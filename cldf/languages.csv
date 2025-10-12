@@ -1,4 +1,82 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+anda1282,Andadjin,,-16.531222,127.693718,anda1282,,6,dialect,Worrorran,dialects
+awng1245,Awngtim,,-12.544,141.984,awng1245,,94,dialect,Pama-Nyungan,dialects
+ayer1246,Ayerrerenge,,-23.699,133.88,ayer1246,,275,dialect,Pama-Nyungan,dialects
+baty1234,Butchulla,,-25.44486,153.15399,baty1234,,100,dialect,Pama-Nyungan,dialects
+bibb1234,Bibbulman,,-34.90831,117.17375,bibb1234,,132,dialect,Pama-Nyungan,dialects
+bili1250,Bilinarra,,-16.868771,130.533991,bili1250,,435,dialect,Pama-Nyungan,dialects
+binb1242,Binbinka,,-16.55208,134.78661,binb1242,,336,dialect,Mirndi,dialects
+birr1241,Birrpayi,,,,birr1241,,391,dialect,Pama-Nyungan,dialects
+boon1243,Boonwurrung,,-38.44632,145.83699,boon1243,,236,dialect,Pama-Nyungan,dialects
+daun1234,Daungwurrung,,-36.96691,145.42066,daun1234,,237,dialect,Pama-Nyungan,dialects
+dhuw1250,Dhuwaya,,,,dhuw1250,,259,dialect,Pama-Nyungan,dialects
+dira1238,Dirari,,-28.7992,138.078,dira1238,,401 409,dialect,Pama-Nyungan,dialects
+djab1234,Djabwurrung,,,,djab1234,,193,dialect,Pama-Nyungan,dialects
+djad1246,Djadjawurrungic,,,,djad1246,,193 194,dialect,Pama-Nyungan,dialects
+djuw1238,Juwaliny,,-20.34239,122.28179,djuw1238,,445,dialect,Pama-Nyungan,dialects
+duun1241,Duungidjawu,,-25.3987,152.345,duun1241,,97 102,dialect,Pama-Nyungan,dialects
+ganu1234,Ganulu,,,,ganu1234,,226,dialect,Pama-Nyungan,dialects
+gayi1238,Gayiri,,-23.90399,148.08148,gayi1238,,494 496,dialect,Pama-Nyungan,dialects
+gore1235,Goreng,,-33.79639,119.01226,gore1235,,45,dialect,Pama-Nyungan,dialects
+guda1242,Wambaya-Gudanji,,-17.42,134.73,guda1242,,335,dialect,Mirndi,dialects
+gund1248,Gundungurra,,-33.7,150.3,gund1248,,174,dialect,Pama-Nyungan,dialects
+ilga1238,Ilgar,,,,ilga1238,,307,dialect,Iwaidjan Proper,dialects
+jabu1247,Jaburarra,,,,jabu1247,,5,dialect,Pama-Nyungan,dialects
+jand1248,Jandai,,-27.56865,153.46239,jand1248,,116 120,dialect,Pama-Nyungan,dialects
+kani1276,Kaniyang,,-33.4956,116.35448,kani1276,,134,dialect,Pama-Nyungan,dialects
+kart1247,Kartujarra,,-23.27912,121.73213,kart1247,,220,dialect,Pama-Nyungan,dialects
+kera1256,Keramin,,,,kera1256,,369,dialect,Pama-Nyungan,dialects
+ladj1234,Ladji Ladji,,,,ladj1234,,222,dialect,Pama-Nyungan,dialects
+luth1234,Luthigh,,,,luth1234,,71 96,dialect,Pama-Nyungan,dialects
+mabu1248,Mabuyag,,,,mabu1248,,207,dialect,Pama-Nyungan,dialects
+madh1244,Madhi Madhi,,-34.5,143.5,madh1244,,196,dialect,Pama-Nyungan,dialects
+maln1239,Malngin,,,,maln1239,,443,dialect,Pama-Nyungan,dialects
+maly1234,Malyangapa,,-29.43,142.0,maly1234,,161,dialect,Pama-Nyungan,dialects
+mare1239,Mare-Ammu,,,,mare1239,,210,dialect,Western Daly,dialects
+mayi1234,Mayi-Thakurti,,-20.0,140.63,mayi1234,,24,dialect,Pama-Nyungan,dialects
+mayi1235,Mayi-Yapi,,-19.25,140.61,mayi1235,,21,dialect,Pama-Nyungan,dialects
+mayi1236,Mayi-Kulan,,-18.56,141.46,mayi1236,,19,dialect,Pama-Nyungan,dialects
+mirn1245,Mirniny,,-31.29733,130.05272,mirn1245,,152,dialect,Pama-Nyungan,dialects
+nari1241,Nari Nari,,-34.53088,144.34507,nari1241,,197,dialect,Pama-Nyungan,dialects
+ndra1239,Ndra'ngith,,,,ndra1239,,77,dialect,Pama-Nyungan,dialects
+ngar1297,Ngarigu,,-36.23,149.13,ngar1297,,169,dialect,Pama-Nyungan,dialects
+ngin1247,Ngindadj,,,,ngin1247,,371,dialect,Pama-Nyungan,dialects
+ngun1277,Ngunawal,,-36.25,148.77,ngun1277,,172,dialect,Pama-Nyungan,dialects
+nhir1234,Nhirrpi,,-28.62911,141.27596,nhir1234,,399,dialect,Pama-Nyungan,dialects
+ogha1238,Ogh Awarrangg,,,,ogha1238,,517,dialect,Pama-Nyungan,dialects
+oyka1239,Oykangand,,,,oyka1239,,474 521,dialect,Pama-Nyungan,dialects
+pinj1244,Pinjarup,,-32.7,115.7,pinj1244,,129,dialect,Pama-Nyungan,dialects
+pudi1238,Puditara,,-24.16283,121.275,pudi1238,,223,dialect,Pama-Nyungan,dialects
+pung1239,Pungupungu,,,,pung1239,,479,dialect,Wadjiginy,dialects
+punt1240,Punthamara,,-27.33,143.0,punt1240,,412,dialect,Pama-Nyungan,dialects
+tjup1235,Tjupan,,-27.11796,120.56642,tjup1235,,488,dialect,Pama-Nyungan,dialects
+umii1236,Umiida,,-16.615461,124.079216,umii1236,,182,dialect,Worrorran,dialects
+ungg1244,Unggaranggu,,-16.91,124.156,ungg1244,,187,dialect,Worrorran,dialects
+wadi1260,Wadi Wadi,,,,wadi1260,,198,dialect,Pama-Nyungan,dialects
+wadi1261,Wadikali,,,,wadi1261,,163,dialect,Pama-Nyungan,dialects
+waju1234,Wajuk,,-31.80756,116.2514,waju1234,,86,dialect,Pama-Nyungan,dialects
+wang1288,Wangkajunga,,-20.26868,126.53434,wang1288,,430,dialect,Pama-Nyungan,dialects
+wany1244,Wanyjirra,,,,wany1244,,446,dialect,Pama-Nyungan,dialects
+ward1248,Wardandi,,-33.92109,115.26929,ward1248,,131,dialect,Pama-Nyungan,dialects
+wayi1238,Wayilwan,,,,wayi1238,,269,dialect,Pama-Nyungan,dialects
+wemb1241,Wemba Wemba,,-35.445,144.09,wemb1241,,201,dialect,Pama-Nyungan,dialects
+wemb1242,Wembawembic,,,,wemb1242,,201,dialect,Pama-Nyungan,dialects
+wilj1239,Wiljakali,,,,wilj1239,,500,dialect,Pama-Nyungan,dialects
+wong1246,Wangkumara,,-27.10149,143.19619,wong1246,,408,dialect,Pama-Nyungan,dialects
+wotj1234,Wotjobaluk,,-35.82105,141.41791,wotj1234,,200,dialect,Pama-Nyungan,dialects
+wunu1234,Wunumara,,,,wunu1234,,17,dialect,Pama-Nyungan,dialects
+wurl1240,Wurla,,-16.15,127.52,wurl1240,,4,dialect,Worrorran,dialects
+wurl1241,Wurlayi,,,,wurl1241,,439,dialect,Pama-Nyungan,dialects
+yabu1234,Yabula Yabula,,-35.76116,145.23209,yabu1234,,168,dialect,Pama-Nyungan,dialects
+yara1254,Yaraldi,,-35.5756,139.20543,yara1254,,376,dialect,Pama-Nyungan,dialects
+yard1234,Yardliyawarra,,-29.79543,141.77353,yard1234,,164,dialect,Pama-Nyungan,dialects
+yari1243,Yari-Yari,,,,yari1243,,203,dialect,Pama-Nyungan,dialects
+yarl1238,Yarluyandi,,-25.83705,139.58436,yarl1238,,405,dialect,Pama-Nyungan,dialects
+yaru1254,Ngandangara,,,,yaru1254,,407,dialect,Pama-Nyungan,dialects
+yawi1239,Yawijibaya,,-15.348087,124.529665,yawi1239,,184,dialect,Worrorran,dialects
+yith1234,Yitha Yitha,,-33.89,144.22,yith1234,,372,dialect,Pama-Nyungan,dialects
+yulp1238,Yulparitja,,,,yulp1238,,82,dialect,Pama-Nyungan,dialects
+yuwa1242,Yuwaalaraay,,-29.758184,147.923684,yuwa1242,,266,dialect,Pama-Nyungan,dialects
 adny1235,Adnyamathanha,,-30.1451,138.671,adny1235,,141,language,Pama-Nyungan,languages
 aghu1256,Aghu Tharnggalu (Retired),,-15.0,144.0,aghu1256,,395,language,Bookkeeping,languages
 alaw1244,Alawa,,-15.5458,134.282,alaw1244,,354,language,Mangarrayi-Maran,languages
