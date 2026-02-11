@@ -13,7 +13,7 @@ property | value
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by-nc/4.0/
 [dc:spatial](http://purl.org/dc/terms/spatial) | westlimit=112.9; southlimit=-39.2; eastlimit=153.7; northlimit=-9.1
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/Glottography/bowern2021australia
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/Glottography/bowern2021australia/tree/v1.01">Glottography/bowern2021australia v1.01</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/Glottography/bowern2021australia/tree/ed0e7fb">Glottography/bowern2021australia v1.01-1-ged0e7fb</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | bowern2021australia
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution

@@ -24,6 +24,8 @@ cldf validate cldf
 
 ```shell
 cldfbench geojson.validate cldf
+489     valid features
+426     valid speaker areas
 ```
 
 ```shell
@@ -41,3 +43,14 @@ lowe1403: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇�
 ayer1246: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 4.00 
 kung1258: ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 4.08 
 ```
+
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_bowern2021australia.py vX.Y
+```
+and follow the instructions given in the output of the command.
